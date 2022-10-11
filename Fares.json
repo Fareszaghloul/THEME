@@ -8,6 +8,13 @@
       "id": "211620281075105793"
     }
   ],
+
+  "background": {
+    "blur": 1,
+    "url": "https://imgur.com/a/tFi42rvg",
+    "alpha": 1.0
+  },
+  
   "theme_color_map": {
     "KEYBOARD": [
       "#1e2529",
@@ -153,9 +160,5 @@
   "unsafe_colors": {
     "CHAT_GREY": "#1e2529"
   },
-  "background": {
-    "blur": 1,
-    "url": "https://imgur.com/a/tFi42rvg",
-    "alpha": 1.0
-  }
+
 }
